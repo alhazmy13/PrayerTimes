@@ -5,9 +5,9 @@ ext {
     bintrayName = 'PrayerTimes'
 
     publishedGroupId = 'net.alhazmy13.PrayerTimes'
-    libraryName = 'libary'
+    libraryName = 'library'
 
-    artifact = 'libary'
+    artifact = 'library'
 
     libraryDescription = 'Prayer Times'
 

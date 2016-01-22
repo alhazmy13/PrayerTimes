@@ -1,4 +1,4 @@
-package net.alhazmy13.example;
+package net.alhazmy13.PrayerTimes_example;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

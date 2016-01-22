@@ -1,4 +1,4 @@
-package net.alhazmy13.example;
+package net.alhazmy13.PrayerTimes_example;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
