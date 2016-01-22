@@ -10,7 +10,7 @@ You can report any issue on issues page. **Note: If you speak Arabic, you can su
 **Maven**
 ```xml
 <dependency>
-<groupId>net.alhazmy13.PrayerTime</groupId>
+<groupId>net.alhazmy13.PrayerTimes</groupId>
 <artifactId>library</artifactId>
 <version>1.0.0-beta</version>
 </dependency>
@@ -21,7 +21,7 @@ You can report any issue on issues page. **Note: If you speak Arabic, you can su
 ```gradle
 
 dependencies {
-	compile 'net.alhazmy13.PrayerTime:library:1.0.0-beta'
+	compile 'net.alhazmy13.PrayerTimes:library:1.0.0-beta'
 }
 ```
 
