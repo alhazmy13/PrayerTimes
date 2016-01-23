@@ -10,7 +10,7 @@ You can report any issue on issues page. **Note: If you speak Arabic, you can su
 **Maven**
 ```xml
 <dependency>
-<groupId>net.alhazmy13.PrayerTime</groupId>
+<groupId>net.alhazmy13.PrayerTimes</groupId>
 <artifactId>library</artifactId>
 <version>1.0.1-beta</version>
 </dependency>
@@ -19,10 +19,9 @@ You can report any issue on issues page. **Note: If you speak Arabic, you can su
 
 **Gradle**
 ```gradle
-
 dependencies {
 	compile 'net.alhazmy13.PrayerTime:library:1.0.1-beta'
-}
+	}
 ```
 
 # Usage
@@ -52,14 +51,14 @@ You will need to create a new instance of `PrayerTime`. Once the instance are co
 prayers.setTimeFormat(PrayerTime.TimeFormat.Time12);
 ```
 * `setCalcMethod` To change the Calculation Methods.
-	* `Jafari`  Ithna Ashari
 	* `Karachi`  University of Islamic Sciences, Karachi
 	* `ISNA`  Islamic Society of North America (ISNA)
 	* `MWL`  Muslim World League (MWL)
 	* `Makkah`  Umm al-Qura, Makkah
 	* `Egypt`  Egyptian General Authority of Survey
-	* `Custom`  Custom Setting
+	* `Jafari`  Ithna Ashari
 	* `Tehran`  Institute of Geophysics, University of Tehran
+	* `Custom`  Custom Setting
 ```java
  prayers.setCalcMethod(PrayerTime.Calculation.Makkah);
 ```
