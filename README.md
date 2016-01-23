@@ -12,7 +12,7 @@ You can report any issue on issues page. **Note: If you speak Arabic, you can su
 <dependency>
 <groupId>net.alhazmy13.PrayerTime</groupId>
 <artifactId>library</artifactId>
-<version>1.0.0-beta</version>
+<version>1.0.1-beta</version>
 </dependency>
 ```
 
@@ -21,7 +21,7 @@ You can report any issue on issues page. **Note: If you speak Arabic, you can su
 ```gradle
 
 dependencies {
-	compile 'net.alhazmy13.PrayerTime:library:1.0.0-beta'
+	compile 'net.alhazmy13.PrayerTime:library:1.0.1-beta'
 }
 ```
 
