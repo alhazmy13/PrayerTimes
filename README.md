@@ -52,14 +52,12 @@ You will need to create a new instance of `PrayerTime`. Once the instance are co
 prayers.setTimeFormat(PrayerTime.TimeFormat.Time12);
 ```
 * `setCalcMethod` To change the Calculation Methods.
-	* `Jafari`  Ithna Ashari
 	* `Karachi`  University of Islamic Sciences, Karachi
 	* `ISNA`  Islamic Society of North America (ISNA)
 	* `MWL`  Muslim World League (MWL)
 	* `Makkah`  Umm al-Qura, Makkah
 	* `Egypt`  Egyptian General Authority of Survey
 	* `Custom`  Custom Setting
-	* `Tehran`  Institute of Geophysics, University of Tehran
 ```java
  prayers.setCalcMethod(PrayerTime.Calculation.Makkah);
 ```
