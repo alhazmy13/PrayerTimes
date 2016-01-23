@@ -57,6 +57,8 @@ prayers.setTimeFormat(PrayerTime.TimeFormat.Time12);
 	* `MWL`  Muslim World League (MWL)
 	* `Makkah`  Umm al-Qura, Makkah
 	* `Egypt`  Egyptian General Authority of Survey
+	* `Jafari`  Ithna Ashari
+	* `Tehran`  Institute of Geophysics, University of Tehran
 	* `Custom`  Custom Setting
 ```java
  prayers.setCalcMethod(PrayerTime.Calculation.Makkah);
