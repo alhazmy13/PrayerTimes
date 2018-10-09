@@ -1,10 +1,7 @@
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/4659608/12700363/37218668-c7f0-11e5-9edf-944176e4019f.png">
 </p>
-# Prayer Times
-![](https://img.shields.io/badge/Platform-Android-brightgreen.svg)
-![](https://img.shields.io/crates/l/rustc-serialize.svg)
-![](https://img.shields.io/badge/version-1.0.1_beta-blue.svg)
+
 
 ------ 
 Prayer Times provides a set of handy functions to calculate prayer times for any location around the world, based on a variety of calculation methods currently used in Muslim communities.
