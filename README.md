@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/4659608/12700363/37218668-c7f0-11e5-9edf-944176e4019f.png">
 </p>
+</br>
+
 # Prayer Times
 ![](https://img.shields.io/badge/Platform-Android-brightgreen.svg)
 ![](https://img.shields.io/crates/l/rustc-serialize.svg)
